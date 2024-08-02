@@ -1,0 +1,3 @@
+# a program that prompts a usr for input then outputs the same input replace each space with ...
+user_input = input("Enter input: ")
+print(user_input.replace(" ", "..."))
