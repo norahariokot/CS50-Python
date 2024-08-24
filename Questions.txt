@@ -1,0 +1,7 @@
+1. What is Python?
+2. What is a programming language?
+3. How so I run python code outside the command line, so as tobe able to practically use it on my computer like other software?
+4. Can I run code outside of a code Editor in a word reader like MS Word?
+5. How does Python code get translated to binary?
+6.Why is it called Python?
+7.What happens when I run Python3 and file name.
