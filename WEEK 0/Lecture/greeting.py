@@ -1,3 +1,4 @@
+# Defining and calling functions
 def hullo(to="world"):
     print(f"Hullo,{to}")
 
